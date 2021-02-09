@@ -1,5 +1,5 @@
 
-# Junior Software Developer | iOS, Swift, Vue.js, Node.js, SQL, JavaScript, Express, MongoDB, C++, Python 
+# FullStack Software Developer | iOS, Swift, Vue.js, Node.js, SQL, JavaScript, Express, MongoDB, C++, Python 
 <img src="https://github.com/prosperevergreen/prosperevergreen/blob/master/profilephoto.jpg" align="right" width="400" />
 
 Hi, my name is Prosper. I am a front-end and back-end web/mobile application development software developer, proficient with various development frameworks and library. Currently, I am a masters student at Tampere University, Finland studying Software, Web and Cloud Technology.
