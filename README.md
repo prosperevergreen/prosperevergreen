@@ -1,5 +1,5 @@
 
-# FullStack Software Engineer | Swift, React.js, Vue.js, Node.js, SQL, MongoDB, C++, Python, Docker 
+# Software Engineer | Web | Mobile | Cloud
 <img src="https://github.com/prosperevergreen/prosperevergreen/blob/master/official-photo.jpg" align="right" width="400" />
 
 Hi, my name is Prosper. I am a front-end and back-end web/mobile application development software developer, proficient with various development frameworks and library. Currently, I am a masters student at Tampere University, Finland studying Software, Web and Cloud Technology.
